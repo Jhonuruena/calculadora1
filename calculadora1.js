@@ -2,7 +2,7 @@
 let botones = ["7", "8", "9", "/", "4", "5", "6", "*", "1", "2", "3", "-", ".", "0", "=", "+"];
 
 function renderizar(){
-
+   
     //div para calculadora
     const divCalculadora = document.createElement("div");
     divCalculadora.setAttribute("id", "calculadora");
